@@ -21,7 +21,7 @@ role: Cloudsecurity Subject Matter Expert
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Homeland Security, U.S. Secret Service
+  - name: DHS, U.S. Secret Service
     url: https://www.dhs.gov/news/2022/10/03/cyber-mission-overview
     
 # Short bio (displayed in user profile at end of posts)
@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/ronniebailey
   - icon: brands/instagram
-    url: https://www.instagram.com/ronniebailey
+    url: https://www.instagram.com/in/ronniebailey
   - icon: brands/linkedin
     url: https://www.linkedin.com/ronniebailey
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -53,4 +53,5 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Ronnie Bailey is a Senior Cloud Security Principal Architect at the D.H.S. U.S. Secret Service. Renowned for his expertise in Cloud Computing and Security Management, he has led major cloud migration projects and developed HIPAA-compliant security solutions. His work at Indivior Pharmaceuticals in Identity and Access Management is also notable. Bailey is furthering his cybersecurity expertise through a Bachelor's program at the University of Richmond, graduating in 2025.
+
+With over a decade of experience in cybersecurity, Ronnie Bailey is a Senior Cloud Security Principal Architect at the U.S. Secret Service, known for his proficiency in cloud security and project leadership. He is currently advancing his expertise through a cybersecurity program at the University of Richmond.
