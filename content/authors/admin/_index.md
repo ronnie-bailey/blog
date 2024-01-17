@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/ronniebailey
   - icon: brands/instagram
-    url: https://www.instagram.com/in/ronniebailey
+    url: https://www.instagram.com/ronniebailey
   - icon: brands/linkedin
-    url: https://www.linkedin.com/ronniebailey
+    url: https://www.linkedin.com/in/ronniebailey
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
