@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Test Ronnie Bailey
+title: Ronnie Bailey
 
 # Name pronunciation (optional)
 name_pronunciation: RAW-nee BAY-lee
