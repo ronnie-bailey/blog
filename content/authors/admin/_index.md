@@ -46,6 +46,9 @@ profiles:
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
+  - icon: brands/teams
+    url: https://teams.microsoft.com/l/chat/0/0?users=<ronniebailey@live.com>
+    
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
