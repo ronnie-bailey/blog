@@ -14,7 +14,6 @@ image:
 
 authors:
   - admin
-  - Ronnie
 
 tags:
   - Academic
